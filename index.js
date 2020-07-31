@@ -12,3 +12,8 @@ AppRegistry.registerComponent(appName, () => App);
 
 //End oh the file
 
+
+
+
+//Lets code !!
+//End oh the file
