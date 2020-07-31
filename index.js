@@ -12,3 +12,4 @@ AppRegistry.registerComponent(appName, () => App);
 // end of the file.
 
 //prasad changes new
+//qwerty
