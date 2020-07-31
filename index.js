@@ -11,15 +11,4 @@ AppRegistry.registerComponent(appName, () => App);
 //removed spaces.
 //Test
 
-
-// end of the file.
-
-//prasad changes new trial 3rd
-//prasad changes new
-
-//final test
-
-
-
-//End of code
-//qwerty
+//Fresh commit chnages
