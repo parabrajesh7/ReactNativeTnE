@@ -11,3 +11,4 @@ AppRegistry.registerComponent(appName, () => App);
 
 // end of the file.
 
+//Commented
